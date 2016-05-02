@@ -1,0 +1,24 @@
+{
+  "name": "ng-101",
+  "version": "1.0.0",
+  "description": "jjohnson intro to angular tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomarquez/angularTalk.git"
+  },
+  "keywords": [
+    "ng-101",
+    "wwc",
+    "angular"
+  ],
+  "author": "joanna johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomarquez/angularTalk/issues"
+  },
+  "homepage": "https://github.com/jomarquez/angularTalk#readme"
+}
