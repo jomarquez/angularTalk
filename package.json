@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jomarquez/angularTalk/issues"
   },
-  "homepage": "https://github.com/jomarquez/angularTalk#readme"
+  "homepage": "https://github.com/jomarquez/angularTalk#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
